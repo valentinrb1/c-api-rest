@@ -1,4 +1,4 @@
-# C RESTful API using Ulfius
+# C API RESTful using Ulfius
 
 ## Date - 2023
 
@@ -8,7 +8,7 @@ Basic web server that allows incrementing a counter and viewing its status throu
 - **Robledo, Valentín**
 
 ## Summary
-In this project, a REST API is developed which has two requests available:
+In this project, a API REST is developed which has two requests available:
 - POST: increments an internal counter for each call made.
 - GET: returns the counter value.
 
